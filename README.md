@@ -1,3 +1,18 @@
-The first major task was a research project on employees of the Pewlett Hackard corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
+# Employee Database - SQL
 
-Designed tables to hold data in the CSVs, imported the CSVs into a SQL database and answered questions about the data. In other words, performed: Data Modeling, Data Engineering, Data Analysis.
+## Objectives
+The purpose of this project is to Extract, Load, and Transform two databases I aquired from Kaggle that represent the pizza restaurants and their menus across the United States.
+
+### Methods Used
+* Data Modeling
+* Data Engineering
+* Data Analysis
+
+### Technologies 
+* Pandas
+* SQL
+* Jupyter Notebook
+
+### Steps to Complete Project
+* The first major task was a research project on employees of the Pewlett Hackard corporation from the 1980s and 1990s. All that remained of the database of employees from that period are six CSV files.
+* Designed tables to hold data in the CSVs, imported the CSVs into a SQL database and answered questions about the data. In other words, performed: Data Modeling, Data Engineering, Data Analysis.
