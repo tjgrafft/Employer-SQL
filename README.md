@@ -1,7 +1,7 @@
 # Employee Database - SQL
 
 ## Objectives
-The purpose of this project is to Extract, Load, and Transform two databases I aquired from Kaggle that represent the pizza restaurants and their menus across the United States.
+The purpose of this project is to write SQL queries and schemas based off six CVS files related to company data to better analyze their departments and employees.
 
 ### Methods Used
 * Data Modeling
